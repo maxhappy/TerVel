@@ -1,0 +1,122 @@
+
+bg.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 1, 543
+  size: 320, 480
+  orig: 320, 480
+  offset: 0, 0
+  index: -1
+bg1
+  rotate: false
+  xy: 1, 61
+  size: 320, 480
+  orig: 320, 480
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: false
+  xy: 323, 543
+  size: 320, 480
+  orig: 320, 480
+  offset: 0, 0
+  index: -1
+bg3
+  rotate: false
+  xy: 323, 61
+  size: 320, 480
+  orig: 320, 480
+  offset: 0, 0
+  index: -1
+bg4
+  rotate: false
+  xy: 645, 543
+  size: 320, 480
+  orig: 320, 480
+  offset: 0, 0
+  index: -1
+bg5
+  rotate: false
+  xy: 645, 61
+  size: 320, 480
+  orig: 320, 480
+  offset: 0, 0
+  index: -1
+crane
+  rotate: false
+  xy: 1, 1
+  size: 77, 58
+  orig: 80, 80
+  offset: 2, 11
+  index: -1
+brick
+  rotate: false
+  xy: 967, 863
+  size: 47, 160
+  orig: 47, 160
+  offset: 0, 0
+  index: -1
+brick1
+  rotate: false
+  xy: 967, 701
+  size: 47, 160
+  orig: 47, 160
+  offset: 0, 0
+  index: -1
+brick2
+  rotate: false
+  xy: 967, 539
+  size: 47, 160
+  orig: 47, 160
+  offset: 0, 0
+  index: -1
+brick3
+  rotate: false
+  xy: 967, 377
+  size: 47, 160
+  orig: 47, 160
+  offset: 0, 0
+  index: -1
+
+bg2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg6
+  rotate: false
+  xy: 1, 1
+  size: 320, 480
+  orig: 320, 480
+  offset: 0, 0
+  index: -1
+bg7
+  rotate: false
+  xy: 323, 1
+  size: 320, 480
+  orig: 320, 480
+  offset: 0, 0
+  index: -1
+platformbar
+  rotate: false
+  xy: 645, 82
+  size: 60, 399
+  orig: 60, 399
+  offset: 0, 0
+  index: -1
+barbedwire
+  rotate: false
+  xy: 645, 19
+  size: 320, 61
+  orig: 320, 61
+  offset: 0, 0
+  index: -1
+lift
+  rotate: false
+  xy: 707, 403
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1

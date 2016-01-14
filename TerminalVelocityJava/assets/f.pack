@@ -1,0 +1,18 @@
+f.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+font1
+  rotate: false
+  xy: 1, 328
+  size: 825, 325
+  orig: 825, 325
+  offset: 0, 0
+  index: -1
+font2
+  rotate: false
+  xy: 1, 1
+  size: 825, 325
+  orig: 825, 325
+  offset: 0, 0
+  index: -1

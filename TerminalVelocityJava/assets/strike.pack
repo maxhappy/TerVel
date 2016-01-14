@@ -1,0 +1,61 @@
+
+strike.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bolt_strike (2)
+  rotate: false
+  xy: 0, 708
+  size: 483, 296
+  orig: 512, 512
+  offset: 14, 148
+  index: -1
+bolt_strike (6)
+  rotate: false
+  xy: 0, 433
+  size: 457, 273
+  orig: 512, 512
+  offset: 39, 165
+  index: -1
+bolt_strike (5)
+  rotate: false
+  xy: 485, 731
+  size: 455, 273
+  orig: 512, 512
+  offset: 39, 168
+  index: -1
+bolt_strike (7)
+  rotate: false
+  xy: 0, 159
+  size: 447, 272
+  orig: 512, 512
+  offset: 38, 164
+  index: -1
+bolt_strike (3)
+  rotate: false
+  xy: 485, 495
+  size: 474, 234
+  orig: 512, 512
+  offset: 24, 199
+  index: -1
+bolt_strike (4)
+  rotate: false
+  xy: 459, 239
+  size: 472, 254
+  orig: 512, 512
+  offset: 25, 184
+  index: -1
+bolt_strike (9)
+  rotate: false
+  xy: 449, 0
+  size: 308, 237
+  orig: 512, 512
+  offset: 152, 183
+  index: -1
+bolt_strike (10)
+  rotate: false
+  xy: 759, 16
+  size: 122, 221
+  orig: 512, 512
+  offset: 350, 197
+  index: -1

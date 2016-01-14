@@ -1,0 +1,89 @@
+
+hero.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rocket
+  rotate: false
+  xy: 1, 78
+  size: 180, 140
+  orig: 180, 140
+  offset: 0, 0
+  index: -1
+hero
+  rotate: false
+  xy: 183, 68
+  size: 73, 150
+  orig: 73, 150
+  offset: 0, 0
+  index: -1
+heroshadow
+  rotate: false
+  xy: 258, 68
+  size: 73, 150
+  orig: 73, 150
+  offset: 0, 0
+  index: -1
+wingp2
+  rotate: false
+  xy: 1, 1
+  size: 91, 75
+  orig: 91, 75
+  offset: 0, 0
+  index: -1
+wingp1
+  rotate: false
+  xy: 333, 173
+  size: 70, 45
+  orig: 70, 45
+  offset: 0, 0
+  index: -1
+flame (1)
+  rotate: false
+  xy: 94, 26
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+flame (2)
+  rotate: false
+  xy: 333, 121
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+flame (3)
+  rotate: false
+  xy: 333, 69
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+flame (4)
+  rotate: false
+  xy: 405, 168
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+flame (5)
+  rotate: false
+  xy: 457, 168
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+flame (6)
+  rotate: false
+  xy: 385, 116
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+wingp3
+  rotate: false
+  xy: 146, 38
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1

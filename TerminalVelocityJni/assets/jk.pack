@@ -1,0 +1,12 @@
+
+jk.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GameOver
+  rotate: false
+  xy: 1, 1
+  size: 303, 91
+  orig: 303, 91
+  offset: 0, 0
+  index: -1

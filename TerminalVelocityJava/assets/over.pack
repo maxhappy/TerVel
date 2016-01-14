@@ -1,0 +1,96 @@
+
+over.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+door1
+  rotate: false
+  xy: 1, 641
+  size: 320, 380
+  orig: 320, 380
+  offset: 0, 0
+  index: -1
+door2
+  rotate: false
+  xy: 1, 259
+  size: 320, 380
+  orig: 320, 380
+  offset: 0, 0
+  index: -1
+door3
+  rotate: false
+  xy: 323, 641
+  size: 320, 380
+  orig: 320, 380
+  offset: 0, 0
+  index: -1
+door
+  rotate: false
+  xy: 323, 240
+  size: 300, 399
+  orig: 300, 399
+  offset: 0, 0
+  index: -1
+door4
+  rotate: false
+  xy: 645, 622
+  size: 300, 399
+  orig: 300, 399
+  offset: 0, 0
+  index: -1
+platform
+  rotate: false
+  xy: 1, 130
+  size: 320, 127
+  orig: 320, 127
+  offset: 0, 0
+  index: -1
+platform1
+  rotate: false
+  xy: 1, 1
+  size: 320, 127
+  orig: 320, 127
+  offset: 0, 0
+  index: -1
+platform2
+  rotate: false
+  xy: 625, 493
+  size: 320, 127
+  orig: 320, 127
+  offset: 0, 0
+  index: -1
+platform3
+  rotate: false
+  xy: 625, 364
+  size: 320, 127
+  orig: 320, 127
+  offset: 0, 0
+  index: -1
+bridge
+  rotate: false
+  xy: 625, 241
+  size: 320, 121
+  orig: 320, 121
+  offset: 0, 0
+  index: -1
+bridge1
+  rotate: false
+  xy: 323, 117
+  size: 320, 121
+  orig: 320, 121
+  offset: 0, 0
+  index: -1
+bridge3
+  rotate: false
+  xy: 645, 118
+  size: 320, 121
+  orig: 320, 121
+  offset: 0, 0
+  index: -1
+doorblock
+  rotate: false
+  xy: 323, 29
+  size: 320, 86
+  orig: 320, 86
+  offset: 0, 0
+  index: -1

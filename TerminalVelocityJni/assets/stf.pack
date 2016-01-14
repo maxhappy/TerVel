@@ -1,0 +1,61 @@
+
+stf.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+stf
+  rotate: false
+  xy: 1, 249
+  size: 436, 748
+  orig: 436, 748
+  offset: 0, 0
+  index: -1
+sound
+  rotate: false
+  xy: 1, 107
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+soundoff
+  rotate: false
+  xy: 143, 107
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+share1
+  rotate: false
+  xy: 1, 1
+  size: 105, 104
+  orig: 105, 104
+  offset: 0, 0
+  index: -1
+share3
+  rotate: false
+  xy: 285, 143
+  size: 105, 104
+  orig: 105, 104
+  offset: 0, 0
+  index: -1
+d1
+  rotate: false
+  xy: 108, 44
+  size: 131, 61
+  orig: 131, 61
+  offset: 0, 0
+  index: -1
+music
+  rotate: false
+  xy: 439, 927
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+musicoff
+  rotate: false
+  xy: 439, 855
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,33 @@
+
+gui.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+start
+  rotate: false
+  xy: 1, 381
+  size: 425, 622
+  orig: 425, 622
+  offset: 0, 0
+  index: -1
+about
+  rotate: false
+  xy: 428, 503
+  size: 348, 500
+  orig: 348, 500
+  offset: 0, 0
+  index: -1
+resume
+  rotate: false
+  xy: 1, 26
+  size: 341, 353
+  orig: 341, 353
+  offset: 0, 0
+  index: -1
+help
+  rotate: false
+  xy: 428, 1
+  size: 326, 500
+  orig: 326, 500
+  offset: 0, 0
+  index: -1
